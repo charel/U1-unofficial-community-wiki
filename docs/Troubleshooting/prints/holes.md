@@ -4,7 +4,7 @@
 The prin has irregular holes in the vertical surfaces (in layer lines) and they're not related to seams.
 
 ## Example
-![pitting](files/pitting_U-reappear.jpg)
+![pitting](../files/pitting_U-reappear.jpg)
 Credit: [reappear.](https://discord.com/channels/1086575708903571536/1391156678594134076/1486652588589056136)
 
 ## Solutions
