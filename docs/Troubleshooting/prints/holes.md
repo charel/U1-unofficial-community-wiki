@@ -1,7 +1,7 @@
 # Pitting, holes, and pockmarks
 
 ## Description
-The prin has irregular holes in the vertical surfaces (in layer lines) and they're not related to seams.
+The print has irregular holes in the vertical surfaces (in layer lines) and they're not related to seams.
 
 ## Example
 ![pitting](../files/pitting_U-reappear.jpg)
@@ -10,7 +10,7 @@ Credit: [reappear.](https://discord.com/channels/1086575708903571536/13911566785
 ## Solutions
 ### Official SnapMaker Wiki
 SnapMaker has a guide in [their official Wiki](https://wiki.snapmaker.com/en/snapmaker_u1/troubleshooting/pitting_and_pockmarks).
-##### TL;DR
+**TL;DR**
 Reduce or tune retraction. 
 
 ### Print profiles
