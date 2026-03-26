@@ -3,6 +3,3 @@ site_name: U1 unofficial Community Wiki
 theme:
   name: material  # better than default
 
-#nav:
-#  - Home: index.md
-#  - 'Custom Firmware': paxx12.md
